@@ -1,0 +1,33 @@
+langchain
+langchain-community
+langgraph
+langserve
+fastapi
+uvicorn[standard]
+
+# For embeddings / vector search
+sentence-transformers
+faiss-cpu
+
+# For image-based crop disease diagnosis
+pillow
+opencv-python
+torch
+torchvision
+
+# Utilities
+python-dotenv
+requests
+pydantic
+numpy
+pandas
+
+# If you plan to do web scraping for market prices
+beautifulsoup4
+lxml
+
+# For CORS (if using React / mobile frontend)
+fastapi[all]
+
+# For optional deployment tasks
+gunicorn
