@@ -244,8 +244,5 @@ Pull requests, issues, and feature suggestions are welcome — especially around
 
 <hr />
 
-<h2>📄 License</h2>
 
-<p>
-Add your preferred license here (e.g., MIT, Apache 2.0).
-</p>
+
