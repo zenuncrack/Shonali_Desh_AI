@@ -73,7 +73,7 @@
 <h2>⚙️ Setup &amp; Installation</h2>
 
 <h3>1️⃣ Clone the repository</h3>
-<pre><code>git clone &lt;YOUR_REPO_URL&gt;
+<pre><code>git clone &lt;REPO_URL&gt;
 cd &quot;Shonali desh&quot;
 </code></pre>
 
